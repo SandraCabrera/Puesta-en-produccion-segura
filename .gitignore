@@ -1,0 +1,3 @@
+# Node modules and package-lock exercice mocha-chai
+/mocha-chai/node_modules
+/mocha-chai/package-lock.json
